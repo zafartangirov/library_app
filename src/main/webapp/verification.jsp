@@ -69,7 +69,5 @@
     <button class="btn">Verify</button>
 </div>
 
-
-
 </body>
 </html>
