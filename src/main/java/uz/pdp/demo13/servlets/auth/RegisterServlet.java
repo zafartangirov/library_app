@@ -15,7 +15,6 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
-
 import static uz.pdp.demo13.MyListener.EMF;
 
 @WebServlet("/auth/register")
