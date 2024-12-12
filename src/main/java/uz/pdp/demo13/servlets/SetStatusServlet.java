@@ -38,6 +38,5 @@ public class SetStatusServlet extends HttpServlet {
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
-
     }
 }
