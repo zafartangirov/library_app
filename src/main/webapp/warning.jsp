@@ -18,6 +18,5 @@
     <a href="library.jsp?page=<%=pagejon%>&search=<%=search%>">Back to library</a>
     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
 </div>
-
 </body>
 </html>
